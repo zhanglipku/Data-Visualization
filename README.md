@@ -1,4 +1,4 @@
-# Digital Methods
+# Digital Visualization
 
 Welcome! This page serves as Li Zhang's working portolios that showcase various visualization/computational techniques while Li Zhang's personal website is under construction.
 
