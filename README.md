@@ -2,7 +2,7 @@
 
 Welcome! This page serves as Li Zhang's working portolios that showcase various visualization/computational techniques while Li Zhang's personal website is under construction.
 
-1. the Analects network. 
+1. the Analects network <br>
    I use interactive and animated social network visualization to show the drastic change of the Confucian circle, especially the increased reliance on disciples' connection to dukes and nobilities after Confucius died.
 
 2. Boko Haram attacks from 2009 to 2019
