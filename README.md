@@ -3,7 +3,7 @@
 Welcome! This page serves as Li Zhang's working portolios that showcase various visualization/computational techniques while Li Zhang's personal website is under construction.
 
 1. the Analects network <br>
-   I use <u> interactive and animated social network visualization </u> to show the drastic change of the Confucian circle, especially the increased reliance on disciples' connection to dukes and nobilities after Confucius died.
+   I use <u>interactive and animated social network visualization</u> to show the drastic change of the Confucian circle, especially the increased reliance on disciples' connection to dukes and nobilities after Confucius died.
 
 2. Boko Haram attacks from 2009 to 2019 <br>
    This interactive and animated spatial analysis shows over the decade how the terrorist group expanded from the Nigeria-Niger-Chad border to the rest of Nigeria, before they were eventually pushed back. 
