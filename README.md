@@ -1,6 +1,6 @@
 # Digital Visualization
 
-Welcome! This page serves as my working portolio that showcases various visualization/computational techniques while my personal website is under construction.
+Welcome! This page serves as my working portolio that showcases various visualization/computational techniques while my personal website is under construction. You can download the .zip file and find the following projects inside:
 
 **1. the Analects network** <br>
    I use <ins>interactive and animated social network visualization</ins> to show the drastic change of the Confucian circle, especially the increased reliance on disciples' connection to dukes and nobilities after Confucius died.
