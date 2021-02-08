@@ -1,4 +1,4 @@
-# Digital Visualization
+# Data Visualization
 
 Thank you for visiting my Github page. This page serves as my working portolio that showcases various visualization/computational techniques while my personal website is under construction. You can download the .zip file and find the following projects inside:
 
